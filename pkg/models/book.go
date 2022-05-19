@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/TyDataSci/Go_DB_Project/config"
+	"github.com/TyDataSci/Go_DB_Project/pkg/config"
 	"github.com/jinzhu/gorm"
 )
 

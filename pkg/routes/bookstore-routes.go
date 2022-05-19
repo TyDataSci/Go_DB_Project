@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/TyDataSci/Go_DB_Project/controllers"
+	"github.com/TyDataSci/Go_DB_Project/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
